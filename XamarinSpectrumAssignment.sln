@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinSpectrumAssignment", "XamarinSpectrumAssignment\XamarinSpectrumAssignment.csproj", "{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Release|iPhone.ActiveCfg = Release|iPhone
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Release|iPhone.Build.0 = Release|iPhone
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{22B0BF99-8FA9-46D2-9F8C-1D0DCE7811A0}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
